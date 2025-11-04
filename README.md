@@ -76,16 +76,12 @@ Projeto criado **para fins de aprendizado**, explorando conceitos de:
 
 - Pontuações salvas em `data/score.json` ao fim de cada partida (lista ordenada decrescente).
 
-## Créditos / Observações finais
-
-- Projeto original e ajustes por você.
-- Ferramentas: Python, Pygame, PyInstaller (opcional).
-- Posso gerar um arquivo `build_exe.bat` e um `.spec` para PyInstaller se desejar automação do build.
 
 
 ## ⚠️ Aviso:
 > Este projeto é apenas para aprendizado e não possui fins comerciais.
 > Todos os personagens e elementos originais de *Divertida Mente* pertencem à Disney/Pixar.
 > Nenhum material oficial foi utilizado nesta versão pública.
+
 
 

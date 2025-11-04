@@ -1,6 +1,24 @@
-# 🧠 Divertida Mente Runner
+# 🧠 Jogo - Kids Runner
 
-Breve
+ 🎮 Divertida Mente Runner (Projeto Educacional)
+
+Este projeto foi desenvolvido por **Carlos Garcia** como parte de seus estudos em **Python, Pygame e Visão Computacional (MediaPipe)**.
+
+Trata-se de um jogo no estilo *Subway Surfers*, onde o jogador controla o personagem com **movimentos corporais captados pela webcam**, simulando um *endless runner* divertido e interativo.
+
+## 🚀 Tecnologias Utilizadas
+- 🐍 **Python 3**
+- 🎮 **Pygame** — motor de jogo 2D
+- 👁️ **OpenCV + MediaPipe** — detecção de movimento e pose corporal
+- 🎨 **Sprites e sons personalizados** (sem uso comercial)
+
+## 🎯 Objetivo
+Projeto criado **para fins de aprendizado**, explorando conceitos de:
+- Lógica de jogos 2D
+- Estrutura de pastas profissional
+- Processamento de imagem em tempo real
+- Integração de IA com jogos
+
 
 - Jogo em Python + Pygame inspirado em "endless runner".
 - Menu com seleção de personagem (alegria, tristeza, raiva) mostrando previews circulares.
@@ -90,3 +108,4 @@ Créditos / Observações finais
 - Projeto original e ajustes por você.
 - Ferramentas: Python, Pygame, PyInstaller (opcional).
 - Posso gerar um arquivo `build_exe.bat` e um `.spec` para PyInstaller se desejar automação do build.
+

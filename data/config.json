@@ -1,0 +1,10 @@
+{
+    "characters": {
+        "tristeza": "assets/sprits/player/tristeza",
+        "alegria": "assets/sprits/player/alegria",
+        "raiva": "assets/sprits/player/raiva"
+    },
+    "selected": "tristeza",
+    "max_collisions": 10,
+    "points_per_evade": 10
+}

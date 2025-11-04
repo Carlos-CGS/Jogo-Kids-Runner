@@ -31,6 +31,9 @@ Projeto criado **para fins de aprendizado**, explorando conceitos de:
 - Se houver suporte de câmera, gestos mapeiam ações (LEFT/RIGHT/JUMP/DUCK).
 - Objetivos: desviar/pular obstáculos; a cada 10 colisões o jogo termina (configurável).
 
+<img src="./assets/sprites/player/menu.png">
+<img src="./assets/sprites/player/jogo.png">
+
 ## Estrutura mínima de assets (recomendado)
 
 - assets/
@@ -51,6 +54,7 @@ Projeto criado **para fins de aprendizado**, explorando conceitos de:
     - colisao.mp3
     - jump.mp3
     - gameOver.mp3
+<img src="./assets/sprites/player/teste.png">
 
 ## Configuração
 
@@ -82,6 +86,7 @@ Projeto criado **para fins de aprendizado**, explorando conceitos de:
 > Este projeto é apenas para aprendizado e não possui fins comerciais.
 > Todos os personagens e elementos originais de *Divertida Mente* pertencem à Disney/Pixar.
 > Nenhum material oficial foi utilizado nesta versão pública.
+
 
 
 
